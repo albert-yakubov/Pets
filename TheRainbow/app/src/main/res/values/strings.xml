@@ -1,9 +1,0 @@
-<resources>
-    <string name="app_name">The Rainbow</string>
-    <string name="red">Red</string>
-    <string name="blue">Blue</string>
-    <string name="black">black</string>
-    <string name="green">green</string>
-    <string name="yellow">yellow</string>
-    <string name="whiite">whiite</string>
-</resources>
