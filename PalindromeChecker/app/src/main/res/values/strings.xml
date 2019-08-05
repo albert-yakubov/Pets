@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Palindrome Checker</string>
+    <string name="palindrome">Palindrome</string>
+    <string name="not_a_palindrome">Not Palindrome</string>
+</resources>

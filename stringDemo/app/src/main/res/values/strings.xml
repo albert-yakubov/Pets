@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">stringDemo</string>
+    <string name="string_here">Your String Here</string>
+</resources>
